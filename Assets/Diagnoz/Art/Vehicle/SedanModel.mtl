@@ -1,0 +1,66 @@
+newmtl Paint
+Kd 0.13 0.3 0.32
+d 1
+newmtl Chrome
+Kd 0.65 0.7 0.72
+d 1
+newmtl Rubber
+Kd 0.035 0.04 0.045
+d 1
+newmtl Plastic
+Kd 0.08 0.09 0.095
+d 1
+newmtl Glass
+Kd 0.16 0.26 0.29
+d 0.45
+newmtl Seat
+Kd 0.16 0.1 0.075
+d 1
+newmtl Headlight
+Kd 0.86 0.88 0.72
+d 1
+newmtl Amber
+Kd 0.95 0.35 0.04
+d 1
+newmtl RedLamp
+Kd 0.64 0.045 0.025
+d 1
+newmtl BatteryCase
+Kd 0.075 0.09 0.11
+d 1
+newmtl BatteryTop
+Kd 0.19 0.22 0.23
+d 1
+newmtl RedWire
+Kd 0.75 0.045 0.03
+d 1
+newmtl BlackWire
+Kd 0.025 0.025 0.03
+d 1
+newmtl EngineMetal
+Kd 0.36 0.39 0.4
+d 1
+newmtl Blue
+Kd 0.06 0.23 0.42
+d 1
+newmtl Coolant
+Kd 0.78 0.73 0.57
+d 1
+newmtl Rim
+Kd 0.56 0.58 0.59
+d 1
+newmtl Liner
+Kd 0.03 0.032 0.035
+d 1
+newmtl Plate
+Kd 0.88 0.89 0.87
+d 1
+newmtl Marking
+Kd 0.8 0.81 0.8
+d 1
+newmtl InteriorDark
+Kd 0.055 0.05 0.05
+d 1
+newmtl BrakeDisc
+Kd 0.3 0.29 0.28
+d 1
